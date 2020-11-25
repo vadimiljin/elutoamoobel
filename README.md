@@ -4,11 +4,11 @@
 ## www.mooblimaja.ee report preview 
 
 
-![](https://raw.githubusercontent.com/vadimiljin/elutoamoobel/master/keyword-research-mooblimaja-rank-keywords-by-desktop-searches-estonia.png)
+![Elutoamööbel keyword research mooblimaja.ee](https://raw.githubusercontent.com/vadimiljin/elutoamoobel/master/keyword-research-mooblimaja-rank-keywords-by-desktop-searches-estonia.png)
 
-![](https://raw.githubusercontent.com/vadimiljin/elutoamoobel/master/keyword-research-mooblimaja-rank-keywords-by-mobile-searches-estonia.png)
+![Elutoamööbel keyword research mooblimaja.ee](https://raw.githubusercontent.com/vadimiljin/elutoamoobel/master/keyword-research-mooblimaja-rank-keywords-by-mobile-searches-estonia.png)
 
-![](https://raw.githubusercontent.com/vadimiljin/elutoamoobel/master/competition-research-mooblimaja-competors-intersection-by-desktop-searches-estonia.png)
+![Elutoamööbel keyword research mooblimaja.ee](https://raw.githubusercontent.com/vadimiljin/elutoamoobel/master/competition-research-mooblimaja-competors-intersection-by-desktop-searches-estonia.png)
 
 ikea.ee
 jysk.ee
